@@ -1,0 +1,23 @@
+body{background-color: white;
+    background-position: 100px;
+     background-image: url(white\ house.png); height:fit-content;  background-size: cover; 
+      text-align: center; 
+      padding: 10%;
+      background-repeat: no-repeat;
+      width: auto;)
+  
+    font-style: normal;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    shape-image-threshold: initial; }
+    h1{font-style: normal;
+    font-stretch: wider;
+    color: darkblue;
+    letter-spacing: 1.5mm;
+    font-size: 2pc;}
+
+      a{padding: 4px;
+    background-color: goldenrod;
+    box-shadow:inset;
+    }
